@@ -1,0 +1,26 @@
+# Inspiré de https://github.com/github/gitignore/blob/master/Unity.gitignore
+
+# Répertoires unity temporaires
+/[Ll]ibrary/
+/[Ll]ogs/
+/[Oo]bj/
+/[Tt]emp/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio
+/.vs/
+/.vsconfig
+/*.csproj
+/*.sln
+
+# Consulo
+/.consulo/
+
+# JetBrains Rider/Resharper
+/.idea/
+
+# Visual Studio Code
+/.vscode/
+
+# Find Reference 2
+/Assets/FR2_Cache.asset
